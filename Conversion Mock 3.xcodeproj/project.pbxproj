@@ -13,6 +13,8 @@
 		0970630C1B5A0043009A7A94 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0970630B1B5A0043009A7A94 /* Images.xcassets */; };
 		0970630F1B5A0043009A7A94 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0970630D1B5A0043009A7A94 /* LaunchScreen.xib */; };
 		0970631B1B5A0043009A7A94 /* Conversion_Mock_3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0970631A1B5A0043009A7A94 /* Conversion_Mock_3Tests.swift */; };
+		097063251B5B1657009A7A94 /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 097063241B5B1657009A7A94 /* images.jpg */; };
+		097063271B5B1A1D009A7A94 /* Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 097063261B5B1A1D009A7A94 /* Dog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		097063141B5A0043009A7A94 /* Conversion Mock 3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Conversion Mock 3Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		097063191B5A0043009A7A94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0970631A1B5A0043009A7A94 /* Conversion_Mock_3Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conversion_Mock_3Tests.swift; sourceTree = "<group>"; };
+		097063241B5B1657009A7A94 /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpg; sourceTree = "<group>"; };
+		097063261B5B1A1D009A7A94 /* Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dog.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		097063021B5A0043009A7A94 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				097063261B5B1A1D009A7A94 /* Dog.jpg */,
+				097063241B5B1657009A7A94 /* images.jpg */,
 				097063031B5A0043009A7A94 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				0970630A1B5A0043009A7A94 /* Main.storyboard in Resources */,
 				0970630F1B5A0043009A7A94 /* LaunchScreen.xib in Resources */,
 				0970630C1B5A0043009A7A94 /* Images.xcassets in Resources */,
+				097063251B5B1657009A7A94 /* images.jpg in Resources */,
+				097063271B5B1A1D009A7A94 /* Dog.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
